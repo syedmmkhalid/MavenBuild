@@ -15,3 +15,5 @@ Use below command to run the container
 docker run -d -p 8080:8080 --name mavenbuild mavenbuild
 
 Now with Webhooks change 2
+
+with Maven build conf in Jenkins
